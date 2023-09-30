@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Devops, AWS, DevSecOps, GitOps**
 
-- 👨‍💻 All of my projects are available at [https://medium.com/@ghazanfarali9595](https://medium.com/@ghazanfarali9595)
+- 👨‍💻 All of my projects are available at https://medium.com/@ghazanfaralidevops
 
-- 📝 I regularly write articles on [https://medium.com/@ghazanfarali9595](https://medium.com/@ghazanfarali9595)
+- 📝 I regularly write articles on https://medium.com/@ghazanfaralidevops
 
 - 💬 Ask me about **DevOps**
 
